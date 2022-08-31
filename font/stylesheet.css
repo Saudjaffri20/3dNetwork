@@ -1,0 +1,45 @@
+@font-face {
+    font-family: 'proxima_novathin';
+    src: url('./mark_simonson_-_proxima_nova_thin.woff2') format('woff2'),
+         url('./mark_simonson_-_proxima_nova_thin.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'proxima_nova_altthin';
+    src: url('./mark_simonson_-_proxima_nova_alt_thin.woff2') format('woff2'),
+         url('./mark_simonson_-_proxima_nova_alt_thin.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+@font-face {
+    font-family: 'proxima_nova_altlight';
+    src: url('./mark_simonson_-_proxima_nova_alt_light.woff2') format('woff2'),
+         url('./mark_simonson_-_proxima_nova_alt_light.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'proxima_nova_altregular';
+    src: url('./mark_simonson_-_proxima_nova_alt_regular.woff2') format('woff2'),
+         url('./mark_simonson_-_proxima_nova_alt_regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'proxima_nova_altsemibold';
+    src: url('./mark_simonson_-_proxima_nova_alt_semibold.woff2') format('woff2'),
+         url('./mark_simonson_-_proxima_nova_alt_semibold.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
