@@ -38,15 +38,15 @@ jQuery(document).ready(function ($) {
   });
 });
 
-// jQuery(".profile-dropdown a").click(function (e) {
-//   if (jQuery(document).width() > 768) {
-//     e.preventDefault();
-//     var url = jQuery(this).attr("href");
-//     if (url !== "#") {
-//       window.location.href = url;
-//     }
-//   }
-// });
+jQuery(".profile-dropdown a").click(function (e) {
+  if (jQuery(document).width() > 768) {
+    e.preventDefault();
+    var url = jQuery(this).attr("href");
+    if (url !== "#") {
+      window.location.href = url;
+    }
+  }
+});
 
 jQuery(document).ready(function ($) {
   $(".slider").slick({
